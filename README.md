@@ -1,8 +1,7 @@
 ---
 title: Âm lịch
-customjs:
- - http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/amlich-hnd.js
 ---
 
-cloudjs:
- - http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/amlich-hnd.js
+- url: https://raw.githubusercontent.com/ninhvanthang/weekly-calendar/master/lunar_calendar.js
+  type: js
+- type: custom:lunar-calendar
