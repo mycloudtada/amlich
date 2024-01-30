@@ -4,4 +4,5 @@ customjs:
  - http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/amlich-hnd.js
 ---
 
-<script src="http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/amlich-hnd.js"></script>
+cloudjs:
+ - http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/amlich-hnd.js
